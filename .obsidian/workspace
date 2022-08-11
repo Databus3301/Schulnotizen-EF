@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "255e95d959337c15",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a384e2e427449cc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Grundkurse/Philosophie - Dial. 2 - Rott/2 Sokrates.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64933c6d0daa75f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8bcf892a3d74978",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1452d94596d09aec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d8b7a7217cb2fcde",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "37221885e09dc33e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bb247e74e03b597",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f161c2d32f675f3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Grundkurse/Philosophie - Dial. 2 - Rott/2 Sokrates.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3a384e2e427449cc",
+  "lastOpenFiles": [
+    "Active Docs/2 template.md",
+    "Grundkurse/Philosophie - Dial. 2 - Rott/2 Sokrates.md",
+    "Grundkurse/Philosophie - Dial. 2 - Rott/1 Aussichten.md",
+    "Active Docs/1 Timetable.md",
+    "Grundkurse/Deutsch - 1OG1 - Klapetz/2 Kommunikation Einstieg.md",
+    "Grundkurse/Deutsch - 1OG1 - Klapetz/1 Aussichten.md",
+    "Grundkurse/Geschichte - 1OG2 - Brzoska/2 Algemeines.md",
+    "Grundkurse/Geschichte - 1OG2 - Brzoska/1 Aussichten.md",
+    "Grundkurse/Chemie - CH1 - Stiehm/2 Wiederhohlung.md",
+    "Grundkurse/Chemie - CH1 - Stiehm/1 Aussichten.md"
+  ]
+}
