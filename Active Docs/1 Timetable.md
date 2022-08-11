@@ -9,6 +9,3 @@ St.|Mo|Di|Mi|Do|Fr
 7|-|SP - KTH|-|-|-|-|
 
 ![[times.png|750]]
-
-loki fragen wie schule war
-adhok
