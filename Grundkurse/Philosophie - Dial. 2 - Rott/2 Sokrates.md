@@ -6,5 +6,3 @@ Tags: #philosophy
 # Sokrates
 #### Aufgaben
 S. 10-11 Nr. 2+3
-
-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
