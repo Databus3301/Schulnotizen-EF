@@ -12,3 +12,6 @@ Tags: #socialstudies
 - Individuum und Gesellschaft
 - Politische Strukturen und Partizipationsmöglichkeiten
 - Marktwirtschaftliche Ordnung
+#### Klausur Termine
+- Freitag 24.10
+	- Individuum und Gesellschaft

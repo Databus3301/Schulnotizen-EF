@@ -19,4 +19,13 @@ Tags: #history
 	- regierungs- und regellose Staatsform 
 - Demokratie (repuplikanisch)
 	- Volksherschafft
+- Aristrokratie
+	- Adelsherschafft
+- Oligarchie
+	- Herschafft der Reichen
+#### Die 6 W-Fragen der Quellenfrage
+- Wer, Wann, Wo, Was (Thema), an Wen, Warum (Absicht)
+\+ Historischer Hintergrund
+
+
 
