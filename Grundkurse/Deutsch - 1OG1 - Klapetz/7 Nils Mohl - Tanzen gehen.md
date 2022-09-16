@@ -4,7 +4,7 @@ Tags: #german
 
 ---
 # Nils Mohl - Tanzen gehen
-#### Eine Einleitung
+#### Einleitung
 Nils Mohl's, 2006 erschienene Kurzgeschichte "Tanzen gehen", thematisiert Routine, Ignoranz und Verlust in einer Ehe.
 #### Eine Inhaltsagabe anhand von Stichpunkten
 ###### Stichpunkte:
