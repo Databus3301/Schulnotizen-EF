@@ -36,3 +36,20 @@ getting food|being undernourished
 adequate pay|lower than average pay
 
 #### "Au pair's experience" –––– 2
+"Au pair's Nightmare" is a 2012 blogpost anonymously published on blogspot.com, about a live-in nanny and how their experiences with a client turned out much worse than expected.
+
+The anonymous au pair expected to leave a bad experience with another family for the better, finding what at first seemed like everyone's dream family, wherein with easy to handle kids, kids pick up after themselves and the youngest with ADHD being medicated and additionally getting 2 months off of every month, turned out to be a miserable experience, where kids trash the house, lie to the parents and have dropped ADHD medication. Combined with the lower than average pay and being not fed adequatly in a nearly 24/7 job. 
+
+#### "Au pair's experience" –––– 3
+Dear Anon,
+
+I have read your blogpost about your experiences working as an au pair for a family in what honestly are horendous conditions and wanted to give you some advice.
+
+No niceties in the world, however kind the kids mother may seem, are an exuse for an extremly underpaid uncontracted job, where you are getting lied to, undernurishment and horrible working conditions to the extend of being mentally draining, resembling borderline exploitation.
+
+I understand how you might feel like it is your responsiblity to fix things and just work that extra bit hard, after all the mom of the kids seems to be "lovely", and you already put so much in that it couldn't hurt to go the extra mile just to please the family but from an outsiders perspective this looks more like emotional abuse and manipulation on her side than her being lovely, the working conditions aren't as promised and if they are rich enough to live in that part of the city, it's not like the family couldn't afford to handle you like a proper human being.
+
+So here me out when I say, abandon the position as soon as possible, to your benefit and to the benefit of the kids. There's hundreds of other applicants in the area the family can afford, and you surely aren't the first person they hired. Politly explain to her thoroughly what your problems are with this job and how they affect you, as long as you aren't forced by contract to stay there leave for the better.
+
+best regards
+– Felix
