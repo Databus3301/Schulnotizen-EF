@@ -9,3 +9,6 @@ St.|Mo|Di|Mi|Do|Fr
 7|-|SP - KTH|-|-|-|-|
 
 ![[times.png|750]]
+
+#### notes
+C.W. Lewis | christen buch
