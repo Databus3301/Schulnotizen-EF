@@ -4,4 +4,13 @@ Tags: #philosophy
 
 ---
 # Vom Mythos zur rationalen Welterklärung
-#### Merkmale eines Mythos
+#### Unterschiede Mythos , Philosophie
+Wo ein Mythos, auf übernatürlichem Abstraktem und oft auch unerklärbaren beruht, um Fragen nach Sinn oder Funktion etwas zu beantworten.
+
+#### Vergleichen sie Ursprung nach Thales mit dem des Mythos
+stofflich
+urelement → entropie
+
+Thales:
+Wasser Urgrund → wasserkreislauf
+
