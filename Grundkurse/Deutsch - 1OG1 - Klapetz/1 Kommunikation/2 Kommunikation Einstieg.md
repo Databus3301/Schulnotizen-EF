@@ -5,10 +5,14 @@ Tags: #german
 ---
 # Kommunikation Einstieg
 #### Kommunikation - persöhnliche definition
-Ein Fenster in ein Gehirn/ zu Information,
-das über verschiedenste Wege, den Austausch von Informationen oder Gedanken ermöglicht.
-Kommunikation ist dabei jede Form dieses Austauschs und ist wohl das näheste an Telepathie das bis dato existiert.
-Einige Kommunikationswege sind:
+>Kommunikation ist unter Anwendung von Sprache ein Fenster in ein Gehirn/ zu Informationen,
+>das über verschiedenste Wege (die nicht nur zu Wortwechsel limitiert sind), den Austausch von Informationen und Gedanken (unter Verhältniss der Kommunikationspartner) ermöglicht.
+>Kommunikation ist dabei jede Form dieses Austauschs und ist in (nicht automatisch vorausgesetzer) hoher Qualität wohl, das näheste an Telepathie das bis dato existiert.
+
+
+
+#### Kommunikationswege
+Kommunikationswege stellen bespielsweise dar, sind aber nicht limitiert zu:
 - Sprache
 	- Sprechen
 	- Text

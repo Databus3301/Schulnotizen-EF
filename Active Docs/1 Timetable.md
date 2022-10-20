@@ -12,3 +12,5 @@ St.|Mo|Di|Mi|Do|Fr
 
 #### notes
 C.W. Lewis | christen buch
+ausstellung im ruhrgebiet - emscher - türken
+drangsalieren - fertigmachen
