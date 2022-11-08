@@ -14,3 +14,7 @@ St.|Mo|Di|Mi|Do|Fr
 C.W. Lewis | christen buch
 ausstellung im ruhrgebiet - emscher - türken
 drangsalieren - fertigmachen
+
+
+read chapter 1 Friday
+take notes on what happens in the boys lifes

@@ -39,4 +39,4 @@ Dieser Artikel richtet sich primär an eben diese ältere Generation (vgl. Z. 4)
 
 Klaus Hurrelmann hält in dem Interview ebenso nichts von der typischen Kritik an der jungen Generation (vgl. Z. 16ff) und sieht in der Egozentrik der Generation sogar einen Vorteil (vgl. Z. 11f)
 
-Er begründet seine Position, im Bezug auf Egozentrik nicht, verweist aber auf die Krisen, die die junge Generation beim Aufwachsen geformt haben  (vgl. Z. 5f) und so ihre Egozentrik durch das Gefühl sich auf nicht verlassen zu können, hervorbrachten (vgl. Z. 10f). Geht allerdings auf die für eine Gesellschaft nötige Veränderung zwischen Generationen ein (vgl. Z. 16ff), die Kritik an der jugen Generation also oft invalidiert.
+Er begründet seine Position, im Bezug auf Egozentrik nicht anhand von empirischen Daten, verweist aber auf die Krisen, die die junge Generation beim Aufwachsen geformt haben  (vgl. Z. 5f) und so ihre Egozentrik durch das Gefühl sich auf nicht verlassen zu können, hervorbrachten (vgl. Z. 10f). Geht allerdings auf die für eine Gesellschaft nötige Veränderung zwischen Generationen ein (vgl. Z. 16ff), die Kritik an der jugen Generation also oft invalidiert.

@@ -4,7 +4,7 @@ Tags: #religion
 
 ---
 # Verhältniss von Mann und Frau
-#### Anahnd von 'Der Sündenfall' Gen. 3. 1-24
+#### Anhand von 'Der Sündenfall' Gen. 3. 1-24
 Gen. 3.7
 >\[…\] sie erkannten, dass sie nackt waren. Sie hefteten Feigenblätter zusammen und machten sich einen Schurz.
 

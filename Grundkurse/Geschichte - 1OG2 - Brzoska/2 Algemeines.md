@@ -29,3 +29,18 @@ Tags: #history
 
 
 
+#### Geschichtliche Quellenanalyse
+
+1. Einleitungssastz
+	1. Entstehung bzw. Jahr der Veröffentlichung
+	2. Autor
+	3. Titel?
+	4. Thema
+	5. Quellenart: Textquelle oder Darstellung
+	6. Adressat
+	7. Textart
+2. Kurze Einordnung in den ummitelbaren historischen Kontext
+	1. Herschaftsform
+	2. Geschichtliche Ereignisse
+3. kurze Gliederung ((chrono)logisch nach Inhaltsabschnitten)
+4. Hauptaussagen/Argumente \[ mit Zeilenangaben \]
