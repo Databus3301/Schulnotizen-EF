@@ -18,3 +18,6 @@ drangsalieren - fertigmachen
 
 read chapter 1 Friday
 take notes on what happens in the boys lifes
+
+symbiose → vereinigung vermischung
+boniert → festgesttez 
