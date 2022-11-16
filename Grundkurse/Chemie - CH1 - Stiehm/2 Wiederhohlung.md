@@ -8,3 +8,5 @@ Tags: #chemistry
 - Ionenpaarbindung
 - Metallbindung
 - Elektronenpaarbindung
+
+![[Pasted image 20221115095331.png|1500x700]]
