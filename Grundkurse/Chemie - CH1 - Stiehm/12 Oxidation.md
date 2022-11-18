@@ -13,3 +13,5 @@ Um eine Reduktion bzw. Oxidation zu erkennen, brauchen wir ein Hilfmittel.
 
 <sub>Ethanol → Ethanal</sub>
 ![[Pasted image 20221115100800.png]]
+
+![[Pasted image 20221117083833.png]]
