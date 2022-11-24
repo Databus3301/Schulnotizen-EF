@@ -44,3 +44,12 @@ Tags: #history
 	2. Geschichtliche Ereignisse
 3. kurze Gliederung ((chrono)logisch nach Inhaltsabschnitten)
 4. Hauptaussagen/Argumente \[ mit Zeilenangaben \]
+
+
+#### Klausur
+- Ruhpolen
+- Nr.1 [[Grundkurse/Geschichte - 1OG2 - Brzoska/2 Algemeines#Geschichtliche Quellenanalyse|Geschichtliche Quellenanalyse]]
+- Nr. 2 Erläutere + Ergänze
+	- Aufgreifen
+	- Eigenwisen
+- 

@@ -23,5 +23,5 @@ Intitierer: Staatsanwältin über Vorsitzenden
 Anliegen: Staatsanwältin- klarstellung der rechtslaage, Beweis der Schuld
 
 #### Einleitung der Analyse zu der dramatischen Szene aus "Terror" S.51-61
-Ferdinand von Schirachs 2015 erschienenes Drama "Terror" spielt in seiner Szene aus Akt 1 S.51-61, Ende 2013, 7 Monate nach dem Terroranschlag, im Gerichtssaal des Schwurgerichts Berlin und handelt hier von Lauterbachs Handeln, während des Beschusses einer 
+Ferdinand von Schirachs 2015 erschienenes Drama "Terror" spielt in seiner Szene aus Akt 1 S.51-61, Ende 2013, 7 Monate nach dem Terroranschlag, im Gerichtssaal des Schwurgerichts Berlin und handelt hier von Lauterbachs Handeln, während des Beschusses einer 
 Personenflugmaschine durch den Angeklagten Majors Koch, befragt durch die Staatsanwältin Nelson, während der Beweisaufnahme.
