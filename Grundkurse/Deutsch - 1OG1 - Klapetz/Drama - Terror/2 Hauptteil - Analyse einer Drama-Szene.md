@@ -30,6 +30,8 @@ Informiert auf der Sachebene, das die Akustik im Saal schelcht ist und forder al
 		- Aufklären über das Geschehen, Koch möglichst wenig zu belasten
 - Wie reagieren sie auf einanader?
 	- Formel, Sachlich, Direkt
+	- Lauterbach
+		- Verwirrt
 - Welche Redestrtegien verwenden sie (Sprechweise rhethorische Figuren, Gestik, Mimik)?
 	- -
 - Wer führt das Gespräch
@@ -38,3 +40,24 @@ Informiert auf der Sachebene, das die Akustik im Saal schelcht ist und forder al
 - Welche Beziehung der Gesprächspartner wird deutlich? Ändert sich möglicherweise die Beziehung im Verlauf de Szene?  Welche Charaktereigenschaften werden in der Szene deutlich? Agieren die Personen vielleicht stellvertrend für eine Gruppe? 
 	- von Sachlichkeit zu Anspannung ändert sich die Beziehung im verlauf der Szene
 	- Lauterbach spricht hier 
+
+
+
+#### Sprachliche  in dieser Szene
+suggestive Fragen, Fragen bei denen man jemanden schon eine Antwort in den Mund legt
+Wiederhohlen der Anrede 'Sie'
+Steigerung/Klimax
+Fachwortschaft
+
+
+![[1 Analysieren einer dramatischen Szene#Einleitung der Analyse zu der dramatischen Szene aus "Terror" S.51-61|Einleitung]]
+#### Hauptteil der Analyse zu der dramatischen Szene aus "Terror" S.51-61
+In der vorliegenden Szene verfolgt die Staatsanwältin die Absicht, mehr über das Geschehen am Tag des Terroranschlags herauszufinden und Major Kochs Schuld zu beweisen (vgl. S. 56). Lauterbach hingegen will Major Koch und vor allem sich selbst nicht belasten (vgl. S. 56).
+
+Dabei reagieren Lauterbach und Nelson ursprünglich Sachlich, und dennoch direkt aufeinander (vgl. S. 51f), bilden aber im Verlauf der Szene Spannungen heraus (vgl. S. 59)
+
+In ihrer benutzten Sprache ist bei Hernn Lauterbach
+
+
+
+fertigstellen
