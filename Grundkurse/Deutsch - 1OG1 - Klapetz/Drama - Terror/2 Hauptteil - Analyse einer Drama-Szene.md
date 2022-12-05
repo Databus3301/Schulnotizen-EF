@@ -54,10 +54,7 @@ Fachwortschaft
 #### Hauptteil der Analyse zu der dramatischen Szene aus "Terror" S.51-61
 In der vorliegenden Szene verfolgt die Staatsanwältin die Absicht, mehr über das Geschehen am Tag des Terroranschlags herauszufinden und Major Kochs Schuld zu beweisen (vgl. S. 56). Lauterbach hingegen will Major Koch und vor allem sich selbst nicht belasten (vgl. S. 56).
 
-Dabei reagieren Lauterbach und Nelson ursprünglich Sachlich, und dennoch direkt aufeinander (vgl. S. 51f), bilden aber im Verlauf der Szene Spannungen heraus (vgl. S. 59)
+Dabei reagieren Lauterbach und Nelson ursprünglich Sachlich, und dennoch direkt aufeinander (vgl. S. 51f), bilden aber im Verlauf der Szene Spannungen heraus (vgl. S. 59), wobei Lauterbach zunehmend verwirrt auftritt (vgl. S. 56) und Nelson die führende Position des Gesprächs hält (vgl. S. 54).
 
-In ihrer benutzten Sprache ist bei Hernn Lauterbach
-
-
-
-fertigstellen
+In ihrer benutzten Sprache ist bei Zeugen Lauterbach der häufige Nutzten von Elipsen auffällig (vgl. S. 53), der neben seinen eher knapp formulierten Sätzten (vgl. S 52), die neben Luftsicherheits Fachwörtern (vgl. S. 57) kaum auf komplexe Sprache zurückgreifen (vgl. S 52) seine Unsicherheit  gegenüber der Staatsanwältin verdeutlicht.
+Bei der Staatsanwältin Nelson, wird dieses Sicherheitsverhältnis auch in ihrer Sprache verdeutlicht, so dominiert sie das Gespräch mit suggestiven Fragen (vgl. S. 54) und übt durch den häufigen Nutzten der Anrede "Sie" Druck auf Lauterbach aus (vgl. S. 55).

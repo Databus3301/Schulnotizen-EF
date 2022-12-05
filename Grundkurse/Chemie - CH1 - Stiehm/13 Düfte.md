@@ -15,3 +15,12 @@ Tags: #chemistry
 - ätherisches Öl → Geruch, Ölig
 - Vanillie → Eis, Pudding, Kuchen, Stange, **Glastubus**
 - Duftstoffe → Geruch, Erinnerungsweckung, 
+
+
+#### Wiederhohlung
+###### IUPAC Nomenklatur
+Heptan
+2 Methylhexan
+2, 3 Dimethylbutan
+
+###### 
