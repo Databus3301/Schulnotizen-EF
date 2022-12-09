@@ -7,8 +7,8 @@ Tags: #history
 
 Kulturräume | islamisch | lateinisch-römisch | griechisch-orthodox
 |:-:|:-:|:-:|:-:|
-Herschaftsform| monarchisch
-religiöse Grundlangen| abstammung von der Prophetenfamilie
-religöse Aufgaben des Herschers|schuützen, Gesetzte erlassen, Glauben bewahren, Scharia geltung schafften
-sein Verhältniss zur Kirche/Ulama|überwachung der Schariadurchsetzung
-Sprache|Arabisch
+Herschaftsform| Monarchie / Kalifat | Kaiserreich | Kaiserreich
+religiöse Grundlangen| abstammung von der Prophetenfamilie | gotgewollt, päpsstlicher Segen | gottgewolt
+religöse Aufgaben des Herschers|schuützen, Gesetzte erlassen, Glauben bewahren, Scharia geltung schafften | schutz der Kirche | Kirche und Welt
+sein Verhältniss zur Kirche/Ulama|überwachung der Schariadurchsetzung | Dualismus, Staat - Kirche | ist die Kirche
+Sprache|Arabisch | Latein | Griechisch
