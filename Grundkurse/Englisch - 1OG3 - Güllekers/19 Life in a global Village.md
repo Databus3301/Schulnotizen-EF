@@ -7,6 +7,10 @@ Tags: #english
 #### Changes and Challenges p.63 1B
 - **class** struggle, with  the **proletariat** facing the increasing **wealth** of the **bourgeoisie**, contributed to by **outsourcing**.
 - enviromental impacts crossing state borders such as, water polution, deforestation, garbage accumulation or the depletion of the onzone layer,  predominantly affecting developing countries
+#### Social Changes 
+ - Social media fastening information exchange
+	 - spreading opinions
+	 - spreading issues
 
 #### Definitions p.63 2
 a.
