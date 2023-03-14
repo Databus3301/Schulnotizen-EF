@@ -11,13 +11,10 @@ St.|Mo|Di|Mi|Do|Fr
 ![[times.png|750]]
 
 #### notes
-C.W. Lewis | christen buch
 ausstellung im ruhrgebiet - emscher - türken
 drangsalieren - fertigmachen
 
-
-read chapter 1 Friday
-take notes on what happens in the boys lifes
-
 symbiose → vereinigung vermischung
 boniert → festgesttez 
+
+säkularisierung → verweltlcihung, von der kirche weg

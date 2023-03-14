@@ -19,3 +19,6 @@ Tags: #socialstudies
 	- Ausprobierpotential, auf Länderebene
 	- Oppositionsstärkung druch Alternativenbietung
 	- Führungspersonalsreservoirdichte 
+
+#### deutscher Föderalismus
+![[deutscherFöderalismus.png]]
