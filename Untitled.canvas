@@ -1,4 +1,7 @@
 {
-	"nodes":[],
+	"nodes":[
+		{"id":"8d08e9ac3989c609","x":0,"y":-180,"width":400,"height":580,"type":"file","file":"README.md"},
+		{"id":"7eddc974bce70455","x":-400,"y":-240,"width":250,"height":60,"type":"text","text":"asdasdas"}
+	],
 	"edges":[]
 }
