@@ -55,10 +55,50 @@ MAIN geht durch die Innenstadt und findet einen Spielplatz auf dem er mehrere Ge
 <div style="font-size:small">EXT. ESSENER-INNENSTADT. TAG </div></div>
 <div style="visibility:hidden">a</div>
 MAIN zeichnet ein Gebäude als mehrmals Personen aus dem Gebäude kommen die auf ihr handy gucken, jedes mal mit einem Versuch von MAIN auf die Person zuzugehen um sie zu portaitieren aber ignoriert wird. Als eine Person sich auch MAIN einlässt postet sie das fertige bild auf social media und geht ohne ein Wort zu sagen.
- <div style="visibility:hidden">a</div>
-<div style="display:flex;"><div style="font-style:italic">Szene 6 </div>  
-<div style="font-size:small">EXT. ???. TAG </div></div>
+
+
+<br><br><br><br><br><br><br><br>
+\*¹ have the block transform from a drawn one into a real world one as the story progesses to resemble the characters relationship with art and the effects of the real world on the character 
+
+
+<div align="right">2 Zweiter Akt</div>
+
+---
+## 2 Zweiter Akt
+
+![[IMG_20230322_101228.jpg]]
+
+<div align="right">3 Dritter Akt</div>
+
+---
+## 3 Dritter Akt
+
+<div style="visibility:hidden">a</div>
+<div style="display:flex;"><div style="font-style:italic">Szene 1 </div>  
+<div style="font-size:small"> EXT. IKEA-PARKDECK TAG (GRAY) </div></div>
 <div style="visibility:hidden">a</div>
 
-<br><br><br><br><br><br>
-\*¹ have the block transform from a drawn one into a real world one as the story progesses to resemble the characters relationship with art and the effects of the real world on the character 
+MAIN blickt von den Autos auf einen grünen Park.
+
+<div style="visibility:hidden">a</div>
+<div style="display:flex;"><div style="font-style:italic">Szene 2 </div>  
+<div style="font-size:small"> EXT. SCHURENBACHHALDE TAG (GRAY) </div></div>
+<div style="visibility:hidden">a</div>
+
+MAIN steht am Fuße der Schurenbachhalde und blickt die Treppen hinauf, die er um eine Ebene nach oben geht. 
+
+<div style="visibility:hidden">a</div>
+<div style="display:flex;"><div style="font-style:italic">Szene 3 </div>  
+<div style="font-size:small"> EXT.  SCHURENBACHHALDE TAG (GRAY) </div></div>
+<div style="visibility:hidden">a</div>
+
+MAIN läuft entlang der Büsche um die Halde drumherum und geht eine Schräge hoch.
+
+<div style="visibility:hidden">a</div>
+<div style="display:flex;"><div style="font-style:italic">Szene 4 </div>  
+<div style="font-size:small"> EXT.  SCHURENBACHHALDE TAG (GRAY) </div></div>
+<div style="visibility:hidden">a</div>
+
+
+
+
