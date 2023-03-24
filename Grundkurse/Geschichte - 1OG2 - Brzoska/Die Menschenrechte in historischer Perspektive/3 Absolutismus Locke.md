@@ -19,3 +19,5 @@ Tags: #history
 	- Diese politische Gemeinschaft muss also nach transparente Gesetzen regieren, die durch unparteiische Richter durchgesetzt werden müssen. (Z. 41-51)
 - Folge
 	- Eine Regierung die sich diesen Prinzipien widersetzt wird daher aufgelöst und die Macht landet wieder beim Volk, welches eine neue Legislative bestimmen kann (Z. 51-63)
+
+→ Rechtfertigung des englischen Parlamentarismus und der 'Glorious Revolution' 1688/9
