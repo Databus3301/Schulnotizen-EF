@@ -54,7 +54,7 @@ MAIN geht durch die Innenstadt und findet einen Spielplatz auf dem er mehrere Ge
 <div style="display:flex;"><div style="font-style:italic">Szene 5 </div>  
 <div style="font-size:small">EXT. ESSENER-INNENSTADT. TAG </div></div>
 <div style="visibility:hidden">a</div>
-MAIN zeichnet ein Gebäude als mehrmals Personen aus dem Gebäude kommen die auf ihr handy gucken, jedes mal mit einem Versuch von MAIN auf die Person zuzugehen um sie zu portaitieren der aber ignoriert wird. Als eine Person sich auch MAIN einlässt postet sie das fertige bild auf social media und geht ohne ein Wort zu sagen.
+MAIN zeichnet ein Gebäude als mehrmals Personen aus dem Gebäude kommen die auf ihr handy gucken, jedes mal mit einem Versuch von MAIN auf die Person zuzugehen um sie zu portraitieren der aber ignoriert wird. Als eine Person sich auf MAIN einlässt postet sie das fertige bild auf social media und geht ohne ein Wort zu sagen.
 
 
 <br><br><br><br><br><br><br><br>
@@ -92,7 +92,7 @@ MAIN läuft von der Treppe weg, entlang der Büsche um die Halde drumherum und g
 <div style="display:flex;"><div style="font-style:italic">Szene 4 </div>  
 <div style="font-size:small"> EXT.  SCHURENBACHHALDE TAG (GRAY) </div></div>
 
-MAIN bewegt sich entlang der Büsche auf der Halde an der Mitte vorbei (an der possibly Toni steht?) und erblickt die Gasverbrennungsanlagen einer Industrie, der Himmel wird Grau. \*³
+MAIN bewegt sich entlang der Büsche auf der Halde an der Mitte vorbei (an der possibly TONI steht?) und erblickt die Gasverbrennungsanlagen einer Industrie, der Himmel wird Grau. \*³
 
 <div style="display:flex;"><div style="font-style:italic">Szene 5 </div>  
 <div style="font-size:small"> EXT.  RADWEG-SCHURENBACHHALDE TAG (GRAY) </div></div>
@@ -109,14 +109,6 @@ MAIN landet schließlich irritiert weitersuchend, nachdem er aus Panik in eine P
 
 MAIN erblickt ein paar Vögel auf der anderen Seite des Kanals hinter der Schutzzone und  und geht auf die andere Kanalseite und balanciert auf der Schutzgrenze, als er sich den Vögeln nähert stellt er fest das diese Vögel eigentlich tot sind und lässt seinen Block in das Wasser fallen als er gegen einen Pfosten auf der Schutzgrenze läuft und schweratmend zurück zum Ufer geht an dem er auf dem Boden zusammenbricht. \*⁵
 
-<div style="display:flex;"><div style="font-style:italic">Szene 8 </div>  
-<div style="font-size:small"> EXT.  RADWEG-KANAL-NORDSTERNPARK TAG (GRAY) </div></div>
-
-
-
-
-
-
 <br><br><br><br><br><br><br><br>
 \*³ gleicher Kamerawinkel
 \*⁴ kamera von unter  zur autobahntür hochfilmend jump cut zur lauten autobahn mit türrahmen.
@@ -126,3 +118,31 @@ MAIN erblickt ein paar Vögel auf der anderen Seite des Kanals hinter der Schutz
 
 
 Dissociation, Lost Place locations, etc
+
+
+<div align="right">4 Vierter Akt</div>
+
+---
+## 4 Vierter Akt
+
+<div style="display:flex;"><div style="font-style:italic">Szene 1 </div>  
+<div style="font-size:small"> EXT.  ROTE-BRÜCKE-NORDSTERNPARK TAG (GRAY) </div></div>
+
+MAIN läuft mit gesenktem Blick über die Brücke auf deren Rundbogen TONI glücklich mit den Beinen wackelnd sitzt, \*⁶ entlang des Wegs an der Kanalseite.
+
+<div style="display:flex;"><div style="font-style:italic">Szene 2 </div>  
+<div style="font-size:small"> EXT.  SPIELPLATZ-NORDSTERNPARK TAG (GRAY) </div></div>
+
+Es spielen glücklich Kinder auf dem Spielplatz denen MAIN betrübt einen Blick aus der Ferne schenkt und kurz auflächelt wobei der Himmel kurz auffhellt nur um noch dunkler als zuvor zu werden bevor er vom Spielplatz zurück zum Wasser geht.
+
+<div style="display:flex;"><div style="font-style:italic">Szene 3 </div>  
+<div style="font-size:small"> EXT.  HEIZÖLTERMINAL-NORDSTERNPARK TAG (GRAY) </div></div>
+
+MAIN sieht das Heizölterminal auf der anderen Uferseite nachdem er weiterhin mit gesenktem Blick entlang des Radwegs gelaufen ist, begibt sich zu den Heizöllagern mit einer plötzlichen Energie und einem Lächelm im Gesicht, zwischen den ganzen Rohren stehend nimmt MAIN eine Metallstange die auf dem Boden lag und und zerstört einige der Röhren aus denen Gas austritt. Danach erblickt MAIN eine viel größere Analge und bricht wieder zusammen \*⁷  
+
+
+
+
+<br><br><br><br><br><br><br><br>
+\*⁶ have the camera follow MAIN from atop the bridge where TONI just sat?
+\*⁷ climb the train bridge for the shot of MAIN climbing the ARAL silos to then pan out to the way bigger BP complex.

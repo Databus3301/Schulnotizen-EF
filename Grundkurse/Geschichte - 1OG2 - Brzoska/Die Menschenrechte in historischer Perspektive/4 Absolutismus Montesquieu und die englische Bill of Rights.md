@@ -26,4 +26,5 @@ Jede Herschaft muss in 3 Gewalten aufgeteilt sein, um einen Macht missbrauch (z.
 - das Parlament sichert sich somit folgende Rechte:
 	- häufige Sitzungen, zur Besserung und Stärkung der Gesetze (Z.39ff)
 	- Freiheit in ihrer Wahl von Paramentariaern und Debatten. (Z. 31-35)
-	- 
+	- Petitionsrecht
+	- Protestanten dürfen Waffen tragen
