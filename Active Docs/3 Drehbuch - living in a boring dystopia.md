@@ -133,7 +133,7 @@ MAIN läuft mit gesenktem Blick über die Brücke auf deren Rundbogen TONI glüc
 <div style="display:flex;"><div style="font-style:italic">Szene 2 </div>  
 <div style="font-size:small"> EXT.  SPIELPLATZ-NORDSTERNPARK TAG (GRAY) </div></div>
 
-Es spielen glücklich Kinder auf dem Spielplatz denen MAIN betrübt einen Blick aus der Ferne schenkt und kurz auflächelt wobei der Himmel kurz auffhellt nur um noch dunkler als zuvor zu werden bevor er vom Spielplatz zurück zum Wasser geht.
+Es spielen glücklich Kinder auf dem Spielplatz (TONI auch?) denen MAIN betrübt einen Blick aus der Ferne schenkt und kurz auflächelt wobei der Himmel kurz auffhellt nur um noch dunkler als zuvor zu werden bevor er vom Spielplatz zurück zum Wasser geht.
 
 <div style="display:flex;"><div style="font-style:italic">Szene 3 </div>  
 <div style="font-size:small"> EXT.  HEIZÖLTERMINAL-NORDSTERNPARK TAG (GRAY) </div></div>
@@ -143,6 +143,57 @@ MAIN sieht das Heizölterminal auf der anderen Uferseite nachdem er weiterhin mi
 
 
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 \*⁶ have the camera follow MAIN from atop the bridge where TONI just sat?
-\*⁷ climb the train bridge for the shot of MAIN climbing the ARAL silos to then pan out to the way bigger BP complex.
+\*⁷ climb the train bridge for the shot of MAIN climbing the ARAL silos to then pan out to the way bigger BP complex
+
+*est 5:25*
+
+
+<div align="right">5 Fünfter Akt</div>
+
+---
+## 5 Fünfter Akt
+
+<div style="visibility:hidden">a</div>
+<div style="display:flex;"><div style="font-style:italic">Szene 1 </div>  
+<div style="font-size:small"> EXT.  </div></div>
+
+MAIN passes out in the last scene of act 4, now pretty much covered in dirt,  and wakes up to TONI looking down on him, holding his sketchbook with a violent image or some text like "come with me" smeared onto it in burgundy.
+
+<div style="visibility:hidden">a</div>
+<div style="display:flex;"><div style="font-style:italic">Szene 2 </div>  
+<div style="font-size:small"> EXT.  </div></div>
+
+
+
+
+
+
+
+
+
+TONI takes MAIN to different dystopian locations quickly driving MAIN into despair under the promise of giving him his sketchbook back possibly going through many dangerous scenes fueling MAIN's dissociation
+*diy green screen - Toni -  Scholven - Tischdecke - Einfarbige Wände*
+
+narrower vision and muffled sounds as depiction of dissociation
+
+<br><br><br>
+
+Scene X: TONI balances over a rail above the chain grid at the first building I climbed with Alex on Zollverein MAIN falls into this chain and possibly even breaks it (alternatively have a shot of the wall mount slowly coming off insert a splash and film the adjacent perimeter (that doesn't have a net)) (edited)
+                            
+possibly even have the paper properties of MAIN play a role here?
+
+Scene X: Lanschaftspark Duisburg TONI switfly climbing the coke oven with MAIN not only struggling to keep up but also hurting themselfes in an attempt to reach TONI only to have TONI pk-Kong from the top floor down the whole building safely while MAIN spins in face of another panic attack as he sees the industry around him, loosing Toni in the process?
+
+pk-Kong stunt scene - green / me?
+
+maybe have the camera follow me with the 2 legged tripod trick
+
+narrow vision while spinning in MAINs perspective
+
+grey skies covering some of the greenage
+
+pinning down on TONI shortly after he comes into MAINs vision to have MAIN stumble towards him and finally lean over the railing (FIRST PERSON)(tripod trick)
+
+TONI drops a sheet of the paper from the blog when fleeing over the rail

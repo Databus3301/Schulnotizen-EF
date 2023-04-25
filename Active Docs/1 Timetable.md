@@ -13,6 +13,7 @@ St.|Mo|Di|Mi|Do|Fr
 #### notes
 ausstellung im ruhrgebiet - emscher - türken
 drangsalieren - fertigmachen
+inhärent - inherent
 
 symbiose → vereinigung vermischung
 boniert → festgesttez 
