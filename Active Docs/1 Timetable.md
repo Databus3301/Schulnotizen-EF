@@ -14,6 +14,7 @@ St.|Mo|Di|Mi|Do|Fr
 ausstellung im ruhrgebiet - emscher - türken
 drangsalieren - fertigmachen
 inhärent - inherent
+vehement - heftig
 
 symbiose → vereinigung vermischung
 boniert → festgesttez 

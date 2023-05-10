@@ -22,4 +22,6 @@ Wertschätzung Wertgewinns wegen  | Wertschätzung des Wesens wegen
 Auto | Liebe
 Haus| Glück
 Computer| Florieren
-Geld |
+Geld | Natur
+- | Leben
+-  | Freiheit

@@ -16,4 +16,10 @@ Tags: #history
 #### Die 3 Revolutionen in Frankreich im Sommer 1798
 1. *Die Verfassungsrevolution*
 	1. Eine durch den König eingerufenen Ständeversammlung zur Bestimmung über Lösungen der Finanzkriese scheitert durch das system "Stände statt Köpfe" in denen der dritte, revolutionäre Stand, einen Nachteil in Form von Steuern für die ersten beiden Stände fordernd, immer überstimmt werden konnte resultiert unter Einwand von Menschenrechten in der Selbstbemächtigung des dritten Standes zum Abhalten von Nationalversammlungen und dem verlangen nach Volksouveränität.
-2. 
+2. Die Bürgerrevolution 
+	1. königliche Stadträte weden abgesetzt
+	2. 14 Juli. 8000 Bürger erstürmen die Bastie, ein altes Stadtgefängnis
+3. Die Bauernrevolition
+	1. gewaltsame Bauernunruhen
+	2. Feudalismus in Nationalversammlung abgeschafft
+	

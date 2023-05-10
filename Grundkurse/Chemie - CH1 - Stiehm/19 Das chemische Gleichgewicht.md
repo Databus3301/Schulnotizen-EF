@@ -47,7 +47,7 @@ Damit gilt im GG:
  Dann gilt:
  $$K = \frac{c^i(C) · c^j(D)}{c^m(A) · c^n(B)}$$
 
-Massenwirkungsgesetz für eine beiebiege Gleichsgewichtskonstante
+**Massenwirkungsgesetz** für eine beiebiege Gleichsgewichtskonstante
 
 # Übungsaufgaben
 ![[Pasted image 20230425100807.png|400x500]]
